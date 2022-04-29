@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "image": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
+        "price": 549,
+        "rate": 3.5
+    },
+    {
+        "id": 2,
+        "name": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy",
+        "image": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
+        "price": 1249,
+        "rate": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition",
+        "image": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
+        "price": 499,
+        "rate": 4
+    },
+    {
+        "id": 5,
+        "name": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED",
+        "image": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+        "price": 1749,
+        "rate": 4.7
+    },
+    {
+        "id": 6,
+        "name": "Microsoft Surface Laptop 4",
+        "description": "Style and speed. Stand out on HD video calls",
+        "image": "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
+        "price": 1499,
+        "rate": 3.8
+    },
+    {
+        "id": 7,
+        "name": "Infinix INBOOK",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB",
+        "image": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
+        "price": 1099,
+        "rate": 4.54
+    },
+    {
+        "id": 8,
+        "name": "HP Pavilion 15-DK1056WM",
+        "description": "HP Pavilion 15-DK1056WM Gaming Laptop",
+        "image": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
+        "price": 750,
+        "rate": 3
+    }
+]
