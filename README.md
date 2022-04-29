@@ -8,6 +8,9 @@ This project is simple NestJS & React App.
 You can filter products, add to watch list and show watch list.
 - due to lack of time, the server is simple and return only data, all the logic made on client side. (filters)
 
+## LIVE DEMO
+[CLICK HERE FOR LIVE DEMO](https://galamitai.github.io/react)
+
 ## Technologies
 Project is created with:
 * NestJS (mock_data)
@@ -15,8 +18,6 @@ Project is created with:
 * MobX
 	
 ## Setup
-[CLICK HERE FOR LIVE DEMO](https://galamitai.github.io/react)
-OR
 To run this project, install it locally using npm:
 
 ```
