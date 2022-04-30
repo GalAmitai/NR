@@ -66,9 +66,9 @@ export class ProductsStore {
     @action
     getProducts = async () => {
         return getProducts().then((res: any) => {
-            if (res.status === 200) {
-                this.products = res.data;
-                this.filteredProducts = res.data;
+            if (Object.keys(res).length) {
+                this.products = res;
+                this.filteredProducts = res;
             } else {
                 this.products = [];
             }

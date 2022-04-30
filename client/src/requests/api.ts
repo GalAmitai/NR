@@ -3,8 +3,8 @@ import axios from 'axios';
 
 export const getProducts = ():Promise<IProduct[]> => {
     const url = process.env.REACT_APP_SERVER_URI || '';
-    return axios.get(`${url}/products/get`).then((res) => {
-        return res.data || []
+    return axios.get(`${url}/products`).then((res) => {
+        return res.data.default || []
     }).catch(err => {
         return [];
     });
